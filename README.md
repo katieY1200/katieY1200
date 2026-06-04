@@ -1,4 +1,14 @@
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=Katie%20Park&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Vision%20AI%20Engineer&descSize=20&descAlignY=75)
+
 </div>
+
+<br>
+
+👋 안녕하세요!
+
+<br>
 
 ```python
 Vision_AI_Engineer = "Katie (박서연)"
@@ -16,6 +26,8 @@ currently = "실제 환경에서 동작하는 AI 만드는 중 🔬"
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 **Full Stack**
 
@@ -47,4 +59,9 @@ currently = "실제 환경에서 동작하는 AI 만드는 중 🔬"
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.yeon1200x@gmail.com)
 
 <br>
+
+<div align="center">
+
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=120&section=footer)
+
 </div>
