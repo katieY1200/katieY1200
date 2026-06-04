@@ -1,7 +1,3 @@
-<div align="center">
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=Katie%20Park&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Vision%20AI%20Engineer&descSize=20&descAlignY=75)
-
 </div>
 
 <br>
@@ -43,7 +39,7 @@ currently = "실제 환경에서 동작하는 AI 만드는 중 🔬"
 ## 📌 Recent Interests
 - Real-world Vision AI (조명 변화, 가려짐 등 실환경 이슈 대응)
 - ONNX 기반 경량화 및 배포 최적화
-- AI 서비스 개발 (백엔드 + 프론트까지)
+- AI 서비스 풀스택 개발 (백엔드 + 프론트까지)
 
 <br>
 
