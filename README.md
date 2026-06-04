@@ -1,7 +1,5 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=Katie%20Park&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Vision%20AI%20Engineer&descSize=20&descAlignY=75)
-
 </div>
 
 <br>
@@ -61,7 +59,5 @@ currently = "실제 환경에서 동작하는 AI 만드는 중 🔬"
 <br>
 
 <div align="center">
-
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=120&section=footer)
 
 </div>
