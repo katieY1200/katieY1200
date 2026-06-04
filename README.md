@@ -1,9 +1,4 @@
-</div>
-
 <br>
-
-👋 안녕하세요!
-
 ```python
 Vision_AI_Engineer = "KATIE (박서연)"
 interest  = ["Face Recognition", "Object Detection", "Vision AI", "Real-world AI Deployment"]
@@ -50,8 +45,3 @@ currently = "실제 환경에서 동작하는 AI 만드는 중 🔬"
 
 <br>
 
-<div align="center">
-
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=120&section=footer)
-
-</div>
