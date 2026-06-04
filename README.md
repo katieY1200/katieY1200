@@ -2,9 +2,8 @@
 
 <br>
 👋 안녕하세요!
-```
- 
-```
+
+
 ```python
 Vision_AI_Engineer = "Katie (박서연)"
 interest  = ["Face Recognition", "Object Detection", "Vision AI", "Computer Vision", "Real-world AI Deployment"]
